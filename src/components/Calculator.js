@@ -19,7 +19,7 @@ border-radius: 10px;
 `
 
 const Display = styled.div`
-  overflow: scroll;
+  overflow: auto;
   flex-wrap: wrap;
   max-width: 580px;
   align-items: flex-end;
